@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, I'm Binduu</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bindushahi&label=Profile%20views&color=0e75b6&style=flat" alt="bindushahi" /> </p>
-🌱 I’m currently learning **ReactJs**
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=bindushahi&label=Profile%20views&color=0e75b6&style=flat" alt="bindushahi" /> </p> -->
+🌱 I’m currently learning **ReactJs** 
 <img align="right" alt="coding"width="350" src="https://i.pinimg.com/originals/b6/c1/39/b6c139218f634f42b32dd4d48c8ebbb0.gif"
 - 📫 How to reach me **bindushahi40@gmail.com**
 
