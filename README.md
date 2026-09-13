@@ -3,13 +3,20 @@
 About Me
 I'm interested in Data Science, Machine Learning, NLP, and AI, with a focus on building practical, data-driven solutions.
 
+
+Currently Exploring
+
+Machine Learning & Predictive Modeling
+Natural Language Processing
+Data Analysis & Visualization
+AI Applications
+
+Tools I Work With
+
+Python · Pandas · NumPy · Scikit-learn · TensorFlow · Hugging Face · SQL
+
+Projects
+
+Most of my repositories are hands-on projects where I explore machine learning, data analysis, and software development.
+
 📫 Reach me at bindushahi40@gmail.com or bindush@umich.edu
-
-Tech Stack
-Languages: Python, SQL
-
-Data Science: Pandas, NumPy, Matplotlib, Seaborn
-
-Machine Learning & AI: Scikit-learn, TensorFlow, Hugging Face
-
-Database: MySQL, MongoDB
