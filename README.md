@@ -1,6 +1,7 @@
 <h1 align="center">Hey 👋, I'm Bindu Shahi</h1> <h3 align="center">Data Science | Machine Learning | NLP | AI</h3> <p align="center"> Graduate Research Assistant at the University of Michigan-Flint </p> <img align="right"
      alt="coding"
-     width="470"
+     width="350"
+                                                                                                                                                                                                               height="365"
      src="https://i.pinimg.com/originals/b6/c1/39/b6c139218f634f42b32dd4d48c8ebbb0.gif">
 
 **👩‍💻 About Me**
