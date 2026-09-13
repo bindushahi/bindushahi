@@ -1,7 +1,4 @@
-<h1 align="center">Hey 👋, I'm Binduu</h1>
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=bindushahi&label=Profile%20views&color=0e75b6&style=flat" alt="bindushahi" /> </p> -->
-🌱I'm learning and working on Machine Learning and data projects. 
-<img align="right" alt="coding"width="350" src="https://i.pinimg.com/originals/b6/c1/39/b6c139218f634f42b32dd4d48c8ebbb0.gif"
+<h1 align="center">Hey 👋, I'm Bindu Shahi</h1> <h3 align="center">Data Science | Machine Learning | NLP | AI</h3> <p align="center"> Graduate Research Assistant at the University of Michigan-Flint </p> <img align="right" alt="coding" width="350" src="https://i.pinimg.com/originals/b6/c1/39/b6c139218f634f42b32dd4d48c8ebbb0.gif">
 - 📫 How to reach me **bindushahi40@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
